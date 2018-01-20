@@ -12,8 +12,8 @@ nav{
 	text-align: right;
 }
 nav h1{
-	width: 183px;
-	height: 47px;
+	width: 183em;
+	height: 47em;
 	background: url('imgs/home.png');
 	text-indent: -999em;
 	text-align: left;
@@ -144,14 +144,14 @@ footer span{
 
 	#left-section h1{
 		width: 260px;
-		height: 68px;
+		height: 668px;
 		background: url('imgs/home.png') center center no-repeat;
 		text-indent: -999em;
 		position: absolute;
 		left: 50%;
 		top: 50%; 
 		margin-left: -130px;
-		margin-top: -34px;
+		margin-top: -300px;
 		background-size: 100%;
 	}
 
